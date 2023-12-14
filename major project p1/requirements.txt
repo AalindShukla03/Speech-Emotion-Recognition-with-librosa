@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipython
+keras
+librosa
+scikit_learn
+tensorflow
+opencv-python-headless
+plotly
+requests
+SoundFile
